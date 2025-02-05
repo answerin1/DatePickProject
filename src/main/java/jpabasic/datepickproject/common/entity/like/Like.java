@@ -15,7 +15,7 @@ import lombok.Getter;
 
 @Entity
 @Getter
-@Table(name = "LIKE")
+@Table(name = "LIKES")
 public class Like {
 
 	@Id
